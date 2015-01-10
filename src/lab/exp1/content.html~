@@ -265,9 +265,15 @@ There are in general three types of fluid flow in pipes
   <li>turbulent</li>
   <li>transient</li>
 </ul> 
+<<<<<<< HEAD
 
 
 
+=======
+
+
+
+>>>>>>> 9e79babef336ee515784da82f5f8ae67c08f433b
 <u>Laminar flow</u></br>
 Laminar flow generally happens when dealing with small pipes , low flow
 velocities and with highly viscous fluids. At low velocities fluids tend to flow
@@ -342,12 +348,21 @@ The energy loss in pipe flow due to friction can be expressed as a pressure
 drop instead of as a head loss. Chemical and mechanical engineers often work with
 pressure drop, whereas civil engineers usually work with head loss. The
 relationship between frictional head loss and frictional pressure drop is simply:</br></br>	
+<<<<<<< HEAD
 
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mo>&#8710;</mo><mi>P</mi><msub><mo>)</mo><mi>p</mi></msub><mo>=</mo><mi>&#961;</mi><mi>g</mi><msub><mi>h</mi><mrow><mi>f</mi><mi>s</mi></mrow></msub></math>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</br></br>
 
 where:</br>
 
+=======
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mo>&#8710;</mo><mi>P</mi><msub><mo>)</mo><mi>p</mi></msub><mo>=</mo><mi>&#961;</mi><mi>g</mi><msub><mi>h</mi><mrow><mi>f</mi><mi>s</mi></mrow></msub></math>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</br></br>
+
+where:</br>
+
+>>>>>>> 9e79babef336ee515784da82f5f8ae67c08f433b
 <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mo>&#8710;</mo><mi>P</mi><msub><mo>)</mo><mi>p</mi></msub></math> = frictional pressure drop ,</br>
 <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>h</mi><mrow><mi>f</mi><mi>s</mi></mrow></msub></math> = frictional head loss due to skin friction,</br>
 ρ = fluid density,</br>
@@ -500,6 +515,7 @@ font-size:10.0pt;
 font-family:"Times New Roman","serif";}
 &lt;/style&gt;
 &lt;![endif]--><big></big></h3>
+<<<<<<< HEAD
 
                             <h3 style="color: red;"><big>
                             <!--[if gte mso 9]&gt;&lt;xml&gt;
@@ -529,6 +545,37 @@ mso-bidi-theme-font:minor-bidi;}
 
                             
 
+=======
+
+                            <h3 style="color: red;"><big>
+                            <!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;w:WordDocument&gt;
+&lt;w:View&gt;Normal&lt;/w:View&gt;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;}
+&lt;/style&gt;
+&lt;![endif]--></big></h3>
+
+                            
+
+>>>>>>> 9e79babef336ee515784da82f5f8ae67c08f433b
                            
                            
 
